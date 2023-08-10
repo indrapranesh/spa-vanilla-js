@@ -1,0 +1,37 @@
+{
+    "name": "Ruby",
+    "online": true,
+    "avatar": "./assets/avatars/avatar-5.jpg",
+    "messages": [
+        {
+            "id": 13,
+            "message": "Hey man! Just came back from office, cheers to the win",
+            "sent": false,
+            "time": "2021-09-23T21:40:08.428Z"
+        },
+        {
+            "id": 14,
+            "message": "so about that ish we talked about, i'll discuss later ",
+            "sent": true,
+            "time": "2021-09-23T21:41:08.428Z"
+        },
+        {
+            "id": 15,
+            "message": "Okay man , waiting...",
+            "sent": false,
+            "time": "2021-09-23T21:42:08.428Z"
+        },
+        {
+            "id": 16,
+            "message": "When are you returning to Rio?",
+            "sent": true,
+            "time": "2021-09-23T21:43:08.428Z"
+        },
+        {
+            "id": 17,
+            "message": "You know we need to chill man &#128540;",
+            "sent": true,
+            "time": "2021-09-23T21:44:08.428Z"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 5,
+        "name": "Ruby",
+        "avatar": "./assets/avatars/avatar-5.jpg",
+        "unreadMessages": 12,
+        "lastMessage": {
+            "text": "Dinner tonight ?",
+            "time": "2021-09-23T23:35:08.428Z"
+        }
+    },
+    {
+        "id": 6,
+        "name": "ab",
+        "avatar": "./assets/avatars/avatar-6.jpg",
+        "unreadMessages": 4,
+        "lastMessage": {
+            "text": "sorry bro",
+            "time": "2021-09-23T05:40:08.428Z"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Otis",
+        "avatar": "./assets/avatars/avatar-7.jpg",
+        "unreadMessages": 0,
+        "lastMessage": {
+            "text": "that's how we role bro",
+            "time": "2021-09-23T17:00:08.428Z"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Adam",
+        "avatar": "./assets/avatars/avatar-8.jpg",
+        "unreadMessages": 1,
+        "lastMessage": {
+            "text": "how are you ?",
+            "time": "2021-09-23T15:30:08.428Z"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Viviene",
+        "avatar": "./assets/avatars/avatar-9.jpg",
+        "unreadMessages": 0,
+        "lastMessage": {
+            "text": "Take care.",
+            "time": "2021-09-23T14:40:08.428Z"
+        }
+    }
+]

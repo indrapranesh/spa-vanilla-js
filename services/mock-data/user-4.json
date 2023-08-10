@@ -1,0 +1,31 @@
+{
+    "name": "Lilly",
+    "online": false,
+    "avatar": "./assets/avatars/avatar-4.jpg",
+    "messages": [
+        {
+            "id": 1,
+            "message": "Hey Jo, How is the new project coming up ?",
+            "sent": true,
+            "time": "2021-09-23T20:39:08.428Z"
+        },
+        {
+            "id": 2,
+            "message": "Are you working from home today ?",
+            "sent": true,
+            "time": "2021-09-23T20:40:08.428Z"
+        },
+        {
+            "id": 3,
+            "message": "Great, I'm at office today.",
+            "sent": false,
+            "time": "2021-09-23T20:40:18.428Z"
+        },
+        {
+            "id": 4,
+            "message": "Okay, cool. See you soon.",
+            "sent": true,
+            "time": "2021-09-23T20:41:08.428Z"
+        }
+    ]
+}

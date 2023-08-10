@@ -1,0 +1,38 @@
+@import './home.css';
+@import './search.css';
+@import './chat.css';
+@import './spacing.css';
+
+:host {
+    box-sizing: border-box;
+}
+
+/* variables */
+:root {
+    --primary-color: #8200D0;
+    --grey-color: #808080;
+    --shade-bg: #F2F2F2;
+    --disabled-color: #D3D3D3;
+    --favourites-border: #C45F00;
+    --black-color: #000000;
+    --white-color: #ffffff;
+    --font-tiny: 12px;
+    --font-xs: 14px;
+    --font-small: 16px;
+    --font-medium: 18px;
+    --font-large: 20px
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#root {
+    height: -webkit-fill-available;
+    padding-top: 75px;
+    padding-bottom: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+}

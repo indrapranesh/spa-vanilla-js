@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Beck",
+        "avatar": "./assets/avatars/avatar-1.jpg",
+        "unreadMessages": 0,
+        "lastMessage": {
+            "text": "Dinner tonight ?",
+            "time": "2021-09-23T15:40:08.428Z"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Jesse",
+        "avatar": "./assets/avatars/avatar-2.jpg",
+        "unreadMessages": 0,
+        "lastMessage": {
+            "text": "sorry bro",
+            "time": "2021-09-23T16:40:08.428Z"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Ben",
+        "avatar": "./assets/avatars/avatar-3.jpg",
+        "unreadMessages": 1,
+        "lastMessage": {
+            "text": "that's how we role bro",
+            "time": "2021-09-23T14:00:08.428Z"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Lilly",
+        "avatar": "./assets/avatars/avatar-4.jpg",
+        "unreadMessages": 0,
+        "lastMessage": {
+            "text": "how are you ?",
+            "time": "2021-09-23T18:30:08.428Z"
+        }
+    }
+]

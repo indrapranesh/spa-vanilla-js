@@ -1,0 +1,90 @@
+/* action buttons  */
+.action-icons-wrapper {
+    position: relative;
+}
+.action-icon {
+    height: 20px;
+}
+
+/* menu navigation */
+
+.menu {
+    font-size: var(--font-large);
+    letter-spacing: 1px;
+    padding-top: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-item {
+    color: var(--disabled-color);
+}
+
+.menu .active {
+    color:  #000000;
+}
+
+/* favourites */
+#favourite-users::-webkit-scrollbar {
+    display: none;
+}
+
+.favourites-header {
+    font-size: var(--font-xs);
+}
+
+.favourite-img {
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+}
+
+.favourites-name {
+    font-weight: 100;
+    font-size: var(--font-xs);
+}
+
+.favourite-border {
+    border: 1px solid var(--favourites-border);
+    border-radius: 50%;
+}
+
+.separator {
+    border-bottom: 1px solid var(--shade-bg);
+}
+
+
+/* recent chats */
+.recent-chat-dp {
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+}
+
+.recent-chat-contact-name {
+    letter-spacing: 1px;
+}
+
+.recent-chat-latest-msg {
+    font-size: var(--font-tiny);
+}
+
+.recent-chat-timing {
+    font-size: var(--font-xs);
+}
+
+.recent-chat-unread {
+    text-align: center;
+    font-size: 9px;
+    line-height: 8px;
+    padding: 5px;
+    height: 8px;
+    min-width: 8px;
+    background: var(--primary-color);
+    color: var(--white-color);
+    border-radius: 50%;
+}
+
+.recent-chat-separator {
+    border-bottom: 1px solid var(--shade-bg);
+}

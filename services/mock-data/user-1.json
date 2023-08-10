@@ -1,0 +1,31 @@
+{
+    "name": "Beck",
+    "online": true,
+    "avatar": "./assets/avatars/avatar-1.jpg",
+    "messages": [
+        {
+            "id": 1,
+            "message": "Are you cooking dinner ?",
+            "sent": false,
+            "time": "2021-09-23T20:39:08.428Z"
+        },
+        {
+            "id": 2,
+            "message": "Caught up with work....can you make it ?",
+            "sent": true,
+            "time": "2021-09-23T20:40:08.428Z"
+        },
+        {
+            "id": 3,
+            "message": "I thought of ordering food.",
+            "sent": false,
+            "time": "2021-09-23T20:40:18.428Z"
+        },
+        {
+            "id": 4,
+            "message": "Great, I'm so hungry.",
+            "sent": true,
+            "time": "2021-09-23T20:41:08.428Z"
+        }
+    ]
+}

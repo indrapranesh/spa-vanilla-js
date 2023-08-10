@@ -1,0 +1,31 @@
+{
+    "name": "Jesse",
+    "online": true,
+    "avatar": "./assets/avatars/avatar-2.jpg",
+    "messages": [
+        {
+            "id": 5,
+            "message": "I am waiting at the entrance.. where are you?",
+            "sent": false,
+            "time": "2021-09-23T20:39:08.428Z"
+        },
+        {
+            "id": 6,
+            "message": " I'll be right there, 2 mins",
+            "sent": true,
+            "time": "2021-09-23T20:40:08.428Z"
+        },
+        {
+            "id": 7,
+            "message": "Hurry up dude, need to catch the train",
+            "sent": false,
+            "time": "2021-09-23T20:40:18.428Z"
+        },
+        {
+            "id": 8,
+            "message": "Waiting for the elevator.",
+            "sent": true,
+            "time": "2021-09-23T20:41:08.428Z"
+        }
+    ]
+}

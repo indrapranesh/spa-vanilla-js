@@ -1,0 +1,31 @@
+{
+    "name": "Ben",
+    "online": false,
+    "avatar": "./assets/avatars/avatar-3.jpg",
+    "messages": [
+        {
+            "id": 9,
+            "message": "Movie tomorrow night ?",
+            "sent": false,
+            "time": "2021-09-23T20:39:08.428Z"
+        },
+        {
+            "id": 10,
+            "message": "I have watched all the new ones",
+            "sent": true,
+            "time": "2021-09-23T20:40:08.428Z"
+        },
+        {
+            "id": 11,
+            "message": "Alright, we will search for an old one.",
+            "sent": false,
+            "time": "2021-09-23T20:40:18.428Z"
+        },
+        {
+            "id": 12,
+            "message": "Ok, I'll be running late today, see ya.",
+            "sent": true,
+            "time": "2021-09-23T20:41:08.428Z"
+        }
+    ]
+}

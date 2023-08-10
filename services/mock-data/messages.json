@@ -1,0 +1,289 @@
+[
+    {
+        "id": 1,
+        "message": "Are you cooking dinner ?",
+        "sent": false,
+        "time": "2021-09-23T20:39:08.428Z",
+        "name": "Beck"
+    },
+    {
+        "id": 2,
+        "message": "Caught up with work....can you make it ?",
+        "sent": true,
+        "time": "2021-09-23T20:40:08.428Z",
+        "name": "Beck"
+    },
+    {
+        "id": 3,
+        "message": "I thought of ordering food.",
+        "sent": false,
+        "time": "2021-09-23T20:40:18.428Z",
+        "name": "Beck"
+    },
+    {
+        "id": 4,
+        "message": "Great, I'm so hungry.",
+        "sent": true,
+        "time": "2021-09-23T20:41:08.428Z",
+        "name": "Beck"
+    },
+    {
+        "id": 5,
+        "message": "I am waiting at the entrance.. where are you?",
+        "sent": false,
+        "time": "2021-09-23T20:39:08.428Z",
+        "name": "Jesse"
+    },
+    {
+        "id": 6,
+        "message": " I'll be right there, 2 mins",
+        "sent": true,
+        "time": "2021-09-23T20:40:08.428Z",
+        "name": "Jesse"
+    },
+    {
+        "id": 7,
+        "message": "Hurry up dude, need to catch the train",
+        "sent": false,
+        "time": "2021-09-23T20:40:18.428Z",
+        "name": "Jesse"
+    },
+    {
+        "id": 8,
+        "message": "Waiting for the elevator.",
+        "sent": true,
+        "time": "2021-09-23T20:41:08.428Z",
+        "name": "Jesse"
+    },
+    {
+        "id": 9,
+        "message": "Movie tomorrow night ?",
+        "sent": false,
+        "time": "2021-09-23T20:39:08.428Z",
+        "name": "Ben"
+    },
+    {
+        "id": 10,
+        "message": "I have watched all the new ones",
+        "sent": true,
+        "time": "2021-09-23T20:40:08.428Z",
+        "name": "Ben"
+    },
+    {
+        "id": 11,
+        "message": "Alright, we will search for an old one.",
+        "sent": false,
+        "time": "2021-09-23T20:40:18.428Z",
+        "name": "Ben"
+    },
+    {
+        "id": 12,
+        "message": "Ok, I'll be running late today, see ya.",
+        "sent": true,
+        "time": "2021-09-23T20:41:08.428Z",
+        "name": "Ben"
+    },
+    {
+        "id": 1,
+        "message": "Hey Jo, How is the new project coming up ?",
+        "sent": true,
+        "time": "2021-09-23T20:39:08.428Z",
+        "name": "Lilly"
+    },
+    {
+        "id": 2,
+        "message": "Are you working from home today ?",
+        "sent": true,
+        "time": "2021-09-23T20:40:08.428Z",
+        "name": "Lilly"
+    },
+    {
+        "id": 3,
+        "message": "Great, I'm at office today.",
+        "sent": false,
+        "time": "2021-09-23T20:40:18.428Z",
+        "name": "Lilly"
+    },
+    {
+        "id": 4,
+        "message": "Okay, cool. See you soon.",
+        "sent": true,
+        "time": "2021-09-23T20:41:08.428Z",
+        "name": "Lilly"
+    },
+    {
+        "id": 13,
+        "message": "Hey man! Just came back from office, cheers to the win",
+        "sent": false,
+        "time": "2021-09-23T21:40:08.428Z",
+        "name": "Ruby"
+    },
+    {
+        "id": 14,
+        "message": "so about that ish we talked about, i'll discuss later ",
+        "sent": true,
+        "time": "2021-09-23T21:41:08.428Z",
+        "name": "Ruby"
+    },
+    {
+        "id": 15,
+        "message": "Okay man , waiting...",
+        "sent": false,
+        "time": "2021-09-23T21:42:08.428Z",
+        "name": "Ruby"
+    },
+    {
+        "id": 16,
+        "message": "When are you returning to Rio?",
+        "sent": true,
+        "time": "2021-09-23T21:43:08.428Z",
+        "name": "Ruby"
+    },
+    {
+        "id": 17,
+        "message": "You know we need to chill man &#128540;",
+        "sent": true,
+        "time": "2021-09-23T21:44:08.428Z",
+        "name": "Ruby"
+    },
+    {
+        "id": 18,
+        "message": "I need to make an appointment for general service.",
+        "sent": true,
+        "time": "2021-09-23T19:40:08.428Z",
+        "name": "ab"
+    },
+    {
+        "id": 19,
+        "message": "Sure, when do you need it ? ",
+        "sent": false,
+        "time": "2021-09-23T19:41:08.428Z",
+        "name": "ab"
+    },
+    {
+        "id": 20,
+        "message": "Tomorrow 12PM, is the time available ?",
+        "sent": true,
+        "time": "2021-09-23T19:42:08.428Z",
+        "name": "ab"
+    },
+    {
+        "id": 21,
+        "message": "Yes, it's available. will book it right away.",
+        "sent": false,
+        "time": "2021-09-23T19:43:08.428Z",
+        "name": "ab"
+    },
+    {
+        "id": 22,
+        "message": "Thanks, see you tomorrow",
+        "sent": true,
+        "time": "2021-09-23T19:44:08.428Z",
+        "name": "ab"
+    },
+    {
+        "id": 18,
+        "message": "Do you think CSK wins the match",
+        "sent": false,
+        "time": "2021-09-23T19:40:08.428Z",
+        "name": "Otis"
+    },
+    {
+        "id": 19,
+        "message": "I don't think so, let's wait.",
+        "sent": true,
+        "time": "2021-09-23T19:41:08.428Z",
+        "name": "Otis"
+    },
+    {
+        "id": 20,
+        "message": "i really wish they win it at the last minute",
+        "sent": false,
+        "time": "2021-09-23T19:42:08.428Z",
+        "name": "Otis"
+    },
+    {
+        "id": 21,
+        "message": "Yeah, me too. They always do it.",
+        "sent": true,
+        "time": "2021-09-23T19:43:08.428Z",
+        "name": "Otis"
+    },
+    {
+        "id": 22,
+        "message": "Really excited for the climax &#128517;",
+        "sent": true,
+        "time": "2021-09-23T19:44:08.428Z",
+        "name": "Otis"
+    },
+    {
+        "id": 18,
+        "message": "Shall we go for dinner tonight ?",
+        "sent": false,
+        "time": "2021-09-23T19:40:08.428Z",
+        "name": "Vivienne"
+    },
+    {
+        "id": 19,
+        "message": "Yes, I'm starving, will finish off the work soon ",
+        "sent": true,
+        "time": "2021-09-23T19:41:08.428Z",
+        "name": "Vivienne"
+    },
+    {
+        "id": 20,
+        "message": "Or can we order it ?",
+        "sent": true,
+        "time": "2021-09-23T19:42:08.428Z",
+        "name": "Vivienne"
+    },
+    {
+        "id": 21,
+        "message": "Anything is fine, I want pizza",
+        "sent": false,
+        "time": "2021-09-23T19:43:08.428Z",
+        "name": "Vivienne"
+    },
+    {
+        "id": 22,
+        "message": "Great then order it &#128521;",
+        "sent": true,
+        "time": "2021-09-23T19:44:08.428Z",
+        "name": "Vivienne"
+    },
+    {
+        "id": 18,
+        "message": "Hey, coming here this Saturday ?",
+        "sent": false,
+        "time": "2021-09-23T19:40:08.428Z",
+        "name": "Adam"
+    },
+    {
+        "id": 19,
+        "message": "Yes, will come by 7 AM.",
+        "sent": true,
+        "time": "2021-09-23T19:41:08.428Z",
+        "name": "Adam"
+    },
+    {
+        "id": 20,
+        "message": "Great, Will make plans then",
+        "sent": false,
+        "time": "2021-09-23T19:42:08.428Z",
+        "name": "Adam"
+    },
+    {
+        "id": 21,
+        "message": "Had a tight week, need to relax.",
+        "sent": true,
+        "time": "2021-09-23T19:43:08.428Z",
+        "name": "Adam"
+    },
+    {
+        "id": 22,
+        "message": "I promise you will.",
+        "sent": true,
+        "time": "2021-09-23T19:44:08.428Z",
+        "name": "Adam"
+    }
+]

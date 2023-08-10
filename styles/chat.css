@@ -1,0 +1,115 @@
+/* chat screen */
+
+.chat-screen {
+    height: 100%;
+}
+
+.message-container {
+    height: calc(100% - (50px + 1rem + 1rem + 1rem));
+    overflow: auto;
+}
+
+.message-container::-webkit-scrollbar {
+    display: none;
+}
+
+.contact-name {
+    font-weight: 600;
+    font-size: var(--font-medium);
+}
+
+.contact-active {
+    font-size: var(--font-tiny);
+}
+
+.online-indicator {
+    height: 7px;
+    width: 7px;
+    border-radius: 50%;
+    background: #008000;
+}
+
+.contact-dp {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+}
+
+.contact-dp-spacing {
+    width: 25px;
+}
+
+.message-text {
+    width: 200px;
+    padding: 15px;
+    font-size: var(--font-tiny);
+    font-weight: lighter;
+}
+
+.message-right {
+    background: var(--primary-color);
+    color: var(--white-color);
+    border-radius: 1rem 1rem 0 1rem;
+}
+
+.message-left {
+    background: var(--shade-bg);
+    border-radius: 0 1rem 1rem 1rem;
+}
+
+.message-time {
+    font-size: var(--font-tiny);
+    font-weight: 600;
+}
+
+.message-time-left {
+    padding-left: calc(25px + 0.5rem);
+}
+
+
+.text-box-container {
+    position: relative;
+}
+
+.chat-text-box {
+    padding: 15px 15px;
+    padding-right: 50px;
+    background: var(--shade-bg);
+    border-radius: 25px;
+    outline: none;
+    max-height: 100px;
+    width: calc(100% - 65px);
+    position: absolute;
+    overflow-y: auto;
+    bottom: 0;
+    font-size: var(--font-small);
+}
+
+.chat-text-box::-webkit-scrollbar {
+    display: none;
+}
+
+.chat-text-box span {
+    background: var(--shade-bg);
+}
+
+.chat-text-box[contentEditable="true"]:empty:before {
+    content: attr(placeholder);
+    color: var(--disabled-color);
+    font-size: var(--font-small);
+}
+  
+
+.send-message {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background: var(--primary-color);
+    position: absolute;
+    right: 1rem;
+    bottom: 10px;
+}
+
+.send-message .send-icon {
+    height: 15px;
+}

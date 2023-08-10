@@ -1,0 +1,37 @@
+{
+    "name": "Vivienne",
+    "online": true,
+    "avatar": "./assets/avatars/avatar-9.jpg",
+    "messages": [
+        {
+            "id": 18,
+            "message": "Shall we go for dinner tonight ?",
+            "sent": false,
+            "time": "2021-09-23T19:40:08.428Z"
+        },
+        {
+            "id": 19,
+            "message": "Yes, I'm starving, will finish off the work soon ",
+            "sent": true,
+            "time": "2021-09-23T19:41:08.428Z"
+        },
+        {
+            "id": 20,
+            "message": "Or can we order it ?",
+            "sent": true,
+            "time": "2021-09-23T19:42:08.428Z"
+        },
+        {
+            "id": 21,
+            "message": "Anything is fine, I want pizza",
+            "sent": false,
+            "time": "2021-09-23T19:43:08.428Z"
+        },
+        {
+            "id": 22,
+            "message": "Great then order it &#128521;",
+            "sent": true,
+            "time": "2021-09-23T19:44:08.428Z"
+        }
+    ]
+}

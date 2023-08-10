@@ -1,0 +1,37 @@
+{
+    "name": "Adam",
+    "online": false,
+    "avatar": "./assets/avatars/avatar-8.jpg",
+    "messages": [
+        {
+            "id": 18,
+            "message": "Hey, coming here this Saturday ?",
+            "sent": false,
+            "time": "2021-09-23T19:40:08.428Z"
+        },
+        {
+            "id": 19,
+            "message": "Yes, will come by 7 AM.",
+            "sent": true,
+            "time": "2021-09-23T19:41:08.428Z"
+        },
+        {
+            "id": 20,
+            "message": "Great, Will make plans then",
+            "sent": false,
+            "time": "2021-09-23T19:42:08.428Z"
+        },
+        {
+            "id": 21,
+            "message": "Had a tight week, need to relax.",
+            "sent": true,
+            "time": "2021-09-23T19:43:08.428Z"
+        },
+        {
+            "id": 22,
+            "message": "I promise you will.",
+            "sent": true,
+            "time": "2021-09-23T19:44:08.428Z"
+        }
+    ]
+}
